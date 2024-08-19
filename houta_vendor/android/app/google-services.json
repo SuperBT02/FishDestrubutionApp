@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "936698874007",
+    "project_id": "houta-flutter",
+    "storage_bucket": "houta-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936698874007:android:557847927f1510a6ce41d2",
+        "android_client_info": {
+          "package_name": "com.example.houta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936698874007-4oq4mc672nvs1m1hr87k9m84a6d5t2o8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.houta",
+            "certificate_hash": "8019d59e97f3666a29a8f8a409232eb3ea9cc54f"
+          }
+        },
+        {
+          "client_id": "936698874007-atpshv6nvtqlfcr6hcq17skfb6t9dgs4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-6LMjELOG7LZuiM3mnZp9OibQr6vHTK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936698874007-atpshv6nvtqlfcr6hcq17skfb6t9dgs4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "936698874007-a78ej16uuq3momufetirhggoucc2sdju.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.houtaVendor.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936698874007:android:5e6396eeb9c4963ece41d2",
+        "android_client_info": {
+          "package_name": "com.example.houta_vendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936698874007-atpshv6nvtqlfcr6hcq17skfb6t9dgs4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-6LMjELOG7LZuiM3mnZp9OibQr6vHTK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936698874007-atpshv6nvtqlfcr6hcq17skfb6t9dgs4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "936698874007-a78ej16uuq3momufetirhggoucc2sdju.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.houtaVendor.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

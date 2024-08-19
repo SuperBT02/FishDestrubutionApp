@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>936698874007-a78ej16uuq3momufetirhggoucc2sdju.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.936698874007-a78ej16uuq3momufetirhggoucc2sdju</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>936698874007-4oq4mc672nvs1m1hr87k9m84a6d5t2o8.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBBKY6T3-p8C7ju2oIP5wdTjzYGxFZ1OBI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>936698874007</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.houtaVendor.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>houta-flutter</string>
+	<key>STORAGE_BUCKET</key>
+	<string>houta-flutter.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:936698874007:ios:f64e09eb5a7c28b2ce41d2</string>
+</dict>
+</plist>
